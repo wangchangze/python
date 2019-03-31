@@ -5,4 +5,8 @@ remote: Permission to
 # linux下的python使用
 ## linux中python文件不一定非要用.py结尾
 在linux下可以设置为任何文件名，只需要在文件第一行加上#！/usr/bin/python3即可使用python3来解释此文件的代码，非常方便
+<<<<<<< HEAD
 ## 迭代器的学习
+=======
+## 迭代器的学习
+>>>>>>> d380e1e0c43c8bdbe36e3644f2dd36b3cfbccdd3
